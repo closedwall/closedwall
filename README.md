@@ -1,16 +1,13 @@
 ## Hi there, I'm Rajesh yadav 👋
 
-Passionate and creative frontend developer specializing in crafting beautiful and responsive user interfaces with expertise in ReactJS and Python development. Dedicated to creating engaging web experiences while actively exploring machine learning and data science technologies. Constantly learning to stay at the forefront of innovation.
+Passionate and creative Software developer specializing in crafting beautiful and responsive user interfaces with expertise in MERN stack and Python development. Dedicated to creating engaging web experiences while actively exploring machine learning and data science technologies. Constantly learning to stay at the forefront of innovation.
 
 
 👨‍💻**Some of the technologies I work with include**
+- Python
 - React.js
 - JavaScript (ES6+)
-- Python
-- HTML5
-- CSS3
-- Sass/SCSS
-- Tailwind Css
+- Java
 - Git
 
 
